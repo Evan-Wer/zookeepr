@@ -71,6 +71,12 @@
       "age": 27,
       "favoriteAnimal": "Ekimara",
       "id": "11"
+    },
+    {
+      "name": "Michael",
+      "age": 22,
+      "favoriteAnimal": "Wolf",
+      "id": "12"
     }
   ]
 }
