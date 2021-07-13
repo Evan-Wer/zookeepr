@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "zookeepr",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evan-Wer/zookeepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evan-Wer/zookeepr/issues"
+  },
+  "homepage": "https://github.com/Evan-Wer/zookeepr#readme"
+}
